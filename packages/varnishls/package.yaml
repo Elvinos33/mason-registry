@@ -1,6 +1,6 @@
 ---
 name: varnishls
-description: Varnish VCL language server
+description: Varnish VCL Language Server
 homepage: https://github.com/M4R7iNP/varnishls
 licenses:
   - GPL-3.0
